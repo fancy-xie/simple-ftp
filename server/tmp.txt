@@ -1,0 +1,6 @@
+-rwxr-xr-x 1 xiaofan xiaofan 28240  3月  3 22:31 ftserver
+-rw-r--r-- 1 xiaofan xiaofan  6364  3月  4 00:11 ftserver.c
+-rw-r--r-- 1 xiaofan xiaofan  1272  3月  4 00:04 ftserver.h
+-rw-r--r-- 1 xiaofan xiaofan  9440  3月  3 17:39 ftserver.o
+-rw-r--r-- 1 xiaofan xiaofan   256  3月  3 21:55 makefile
+-rw-r--r-- 1 xiaofan xiaofan     0  3月  4 00:21 tmp.txt

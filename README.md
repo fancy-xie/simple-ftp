@@ -1,8 +1,8 @@
 FTP Client-Server Implementation
 ===========
-Simple implementation of a file transfer program. It includes custom client and server programs that provide functionality to authenticate a user, list remote files, and retrieve remote files.
+Simple implementation of file transfer program based on Linux socket programming. It includes custom client and server programs that provide functionality to authenticate a user, list remote files, and retrieve remote files.
 
-文件传输程序的简单实现。包括自定义的客户端和服务器程序，这些程序提供了对用户进行身份验证，列出远程文件以及获取远程文件的功能。
+基于Linux socket编程的文件传输程序简单实现。包括自定义的客户端和服务器程序，这些程序提供了对用户进行身份验证，列出远程文件以及获取远程文件的功能。
 
 ### Directory layout:
 	simple-ftp/
